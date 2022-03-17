@@ -1,2 +1,2 @@
-# CanaBoyz-CB-Mint-Pass
+# CB-Mint-Pass
 Smart Contract CB Mint Pass
